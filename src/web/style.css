@@ -1,0 +1,100 @@
+.css-12oz5g7{ 
+  max-width: 80%;
+}
+
+.stButton>button {
+  color: white;
+  background-color: #007cbf;
+  position: relative;
+  align-self: left;
+}
+
+.stButton>button:hover {
+  color: white;
+  background-color: #045b8a;
+  outline-color: white;
+  border-color: white;
+}
+
+.stButton>button:focus {
+  color:#007cbf;
+  background-color: #ffffff;
+  outline-color: white;
+  border-color: white;
+}
+
+.stDownloadButton>button {
+  color: white;
+  background-color: #007cbf;
+  position: relative;
+  align-self: left;
+}
+
+.stDownloadButton>button:hover {
+  color: white;
+  background-color: #045b8a;
+  outline-color: white;
+  border-color: white;
+}
+
+.stDownloadButton>button:focus {
+  color:#007cbf;
+  background-color: #ffffff;
+  outline-color: white;
+  border-color: white;
+}
+
+.stImage>Image{
+  outline-color: #8197a3;
+  border-color: #8197a3;
+  border-radius: 100%;
+  height: 240px;
+}
+.css-1v0mbdj>img{
+  outline-color: #8197a3;
+  border-color: #8197a3;
+  border-radius: 5%;
+  aspect-ratio: 4/5;
+  border-style: solid;
+  padding-left: 10rpx;
+  border-width: 4px;
+}
+
+.block-container{
+  position: relative;
+  top: -25px;
+}
+
+.streamlit-expanderHeader {
+  background-color: #f0f0f0;
+}
+.streamlit-expanderContent {
+  background-color: #fcfcfc;
+}
+
+.stDataFrame{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn{
+  cursor: pointer;
+  background-color: #007cbf;
+  color: white;
+  border-radius: 0.25rem;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid rgba(49, 51, 63, 0.2);
+}
+
+.btn:hover{
+  background-color: #096191;
+  transition: all 0.6 ease-in;
+}
+
+/* section>div>div>div>div>div>div>div>button{
+  position : fixed !important;
+  bottom: 13px;
+  width:210px !important;
+
+} */
