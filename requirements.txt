@@ -1,7 +1,5 @@
 streamlit==1.18.1
-azure-identity
-azure-keyvault-secrets
-snowflake-snowpark-python==1.0.0
+nowflake-snowpark-python==1.0.0
 reportlab==3.6.12
 pandas==1.4.4
 pyarrow==8.0.0
